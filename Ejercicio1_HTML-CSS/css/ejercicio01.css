@@ -1,0 +1,15 @@
+.center{
+    padding: 9px;
+    background-color: rgb(228, 250, 250);
+    margin: auto;
+}
+body{
+    display: flex;
+    background-color: white;
+    color: rgb(31, 51, 117);
+}
+h1, h2{
+    font-family: Georgia, 'Semi-formal', Times, serif;
+    font-style: italic;
+    
+}
