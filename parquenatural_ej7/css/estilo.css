@@ -1,0 +1,32 @@
+body{
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1{
+    width: 100%;
+    letter-spacing:8px;
+    color: #5c8c08;
+    text-align: center;
+}
+h1 span{
+    color: #bf8237;
+}
+h2{
+    color: #69ad09;
+    border-bottom: 1px #e5eed7 solid;
+}
+p{
+    font-weight: normal;
+}
+.main{
+    background-color: #bf8237;
+    width: 95%;
+}
+.container{
+    
+    margin: 0px 15px 0px 15px;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    border: 1px #dfdfdf solid;
+    text-align: justify;
+}
