@@ -1,11 +1,17 @@
 body{
+    margin: auto;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    width: 900px;
+    height: auto;
+    display: flex;
 }
 h1{
     width: 100%;
     letter-spacing:8px;
     color: #5c8c08;
-    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    /* text-align: center; */
 }
 h1 span{
     color: #bf8237;
@@ -26,8 +32,23 @@ p{
     background-color: #bf8237;
     width: 95%;
 }
+.content{
+    position: relative;
+    /* display: flex; */
+    height: auto;
+    align-self: center;
+    margin: 0px 15px 0px 15px;
+    margin: auto;
+}
+ul{
+    align-items: center;
+    float: left;
+    margin-right: 20px;
+    margin-top: 100px;
+}
+
 .container{
-    
+    float: right;
     margin: 0px 15px 0px 15px;
     padding: 15px;
     justify-content: center;
