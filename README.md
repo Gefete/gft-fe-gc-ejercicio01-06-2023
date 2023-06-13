@@ -3,6 +3,8 @@ El primer repositorio creado como actividad del bootcamp
 
 ### Index de proyecto
 https://gefete.github.io/gft-fe-gc-ejercicio01-06-2023/
+![image](https://github.com/Gefete/gft-fe-gc-ejercicio01-06-2023/assets/84667512/b1e2e175-a6c5-456c-ade5-8701ea2339aa)
+
 
 ### Ejercicio 1
 https://gefete.github.io/gft-fe-gc-ejercicio01-06-2023/Ejercicio1_HTML-CSS/index.html
